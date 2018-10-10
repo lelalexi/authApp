@@ -1,6 +1,8 @@
 # Authapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+Proyecto desarrollado en Angular 6, mediante [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+
+Proximamente un resumen de lo mas importante.
 
 ## Development server
 
